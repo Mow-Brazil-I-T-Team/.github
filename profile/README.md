@@ -21,6 +21,6 @@ Cuidamos de infraestrutura, sistemas internos, suporte e segurança da informaç
 - Infraestrutura: Linux, Docker
 - Qualidade e segurança: pytest, Ruff, mypy, Bandit, pip-audit, gitleaks, Dependabot
 
-Os sistemas que construímos são internos, e os repositórios da organização são privados.
+Os sistemas que construímos são internos, e os repositórios de código da organização são privados.
 
 mowbrazil.com · Foz do Iguaçu, Paraná, Brasil
